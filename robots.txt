@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://epaephiov.cloux.org/sitemap.xml
